@@ -1,6 +1,6 @@
-# Automated FS validation in Java with Cucumber and Selenium WebDriver #
+## FS Automation in Java with Cucumber and Selenium WebDriver ##
 
-This project uses [BrowserMob Proxy](https://github.com/lightbody/browsermob-proxy) to check if data is getting properly captured from the page and sent to FS servers.
+This project uses [BrowserMob Proxy](https://github.com/lightbody/browsermob-proxy) to check if data is getting properly captured from a page and sent to FS servers.
 
 Test scenarios are defined in the feature files at `./src/test/resources/com/automatedtest/fs`
 
